@@ -16,7 +16,7 @@
 "Cancellable": "false",
 "MessageID": "10",
 "ShowTime": "2",
-"Button": "پیوستن",
+"Button": "عضویت در کانال VIP",
 "ButtonCancell": "Cancell",
 "Show": "on"
 }
