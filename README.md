@@ -15,7 +15,7 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
 "MessageID": "10",
-"ShowTime": "1",
+"ShowTime": "2",
 "Button": "پیوستن",
 "ButtonCancell": "Cancell",
 "Show": "on"
